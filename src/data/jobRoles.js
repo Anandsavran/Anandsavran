@@ -1,0 +1,19 @@
+export const jobRoles = [
+  "Machine Learning Analyst",
+  "AI Analyst",
+  "Data Engineer (Entry Level)",
+  "Data Analyst",
+  "Android App Developer",
+  "Junior Data Scientist",
+  "Data Visualization Analyst",
+  "Business Intelligence (BI) Analyst",
+  "Financial Data Analyst",
+  "Predictive Analytics Specialist",
+  "Big Data Analyst",
+  "Big Data Developer",
+  "Hadoop Developer",
+  "Business Analyst",
+  "Investment Data Analyst",
+  "Risk Analyst",
+  "Market Research Analyst"
+];
